@@ -1,0 +1,12 @@
+{
+  "name": "js-app-with-knapsack-pro",
+  "version": "0.0.0",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "jasmine": "^2.6.0",
+    "knapsack-pro-js": "file:../knapsack-pro-js"
+  }
+}
