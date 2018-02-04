@@ -5,6 +5,13 @@
     "test": "jasmine"
   },
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KnapsackPro/js-app-with-knapsack-pro.git"
+  },
+  "bugs": {
+    "url": "https://github.com/KnapsackPro/js-app-with-knapsack-pro/issues"
+  },
   "dependencies": {
     "jasmine": "^2.6.0",
     "knapsack-pro-js": "file:../knapsack-pro-js"
