@@ -13,7 +13,7 @@
     "url": "https://github.com/KnapsackPro/js-app-with-knapsack-pro/issues"
   },
   "dependencies": {
-    "jasmine": "^2.9.0",
+    "jasmine": "^3.0.0",
     "knapsack-pro-js": "file:../knapsack-pro-js"
   }
 }
